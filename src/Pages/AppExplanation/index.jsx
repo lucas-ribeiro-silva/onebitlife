@@ -1,8 +1,7 @@
 import React from "react";
 import { View, Text, StyleSheet, ScrollView } from "react-native";
 import DefaultButton from "../../Components/Common/DefaultButton";
-import ExplanationCard from "../../Components/Explanation/Explanation Card";
-
+import ExplanationCard from "../../Components/Explanation/Explanation Card"
 export default function AppExplanation() {
 
 	function handleSetShowHome() {
