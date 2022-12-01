@@ -83,7 +83,7 @@ const styles = StyleSheet.create({
     color: "#85BB65",
     fontWeight: "bold",
   },
-	body: {
+  body: {
     color: "#FF0044",
     fontWeight: "bold",
   },
